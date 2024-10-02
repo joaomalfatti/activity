@@ -3,6 +3,16 @@ namespace activity
 {
     public class ActiviFive
     {
+
+        /*
+         * 5 - Create a program in which the user needs to enter a vehicle's license plate and the program checks whether
+         * the plate is valid, following the Brazilian stard valid until 2018:
+         *  * The plate must have 7 alphanumeric characters;
+         *  * The first three characters are letters ( upper or lower case).
+         *  * The las four character are numbers;
+         *  
+         *  at the end, th eprogram should display *True* if the plate is valid and *False* otherwise.
+         */
         public void ActivityFive()
         {
             // Welcome Message.
