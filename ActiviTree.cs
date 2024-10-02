@@ -2,6 +2,14 @@
 namespace activity;
 public  class ActiviTree
 {
+    /*
+        Create a program with 2 values of type *Double* already declared that return;
+                * the Sum of these two numbers;
+                * the subtraction of the two numbers;
+                * the multiplication of thw two numbers;
+                * The division of thw numbers (it is worth checking if the second number is 0!);
+                * the average of the two numbers.
+     */
     public void ActivityTree()
     {
         Console.WriteLine("Hello, I'm João, studient tecnology. Welcome Activity Three.");
