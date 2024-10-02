@@ -3,6 +3,14 @@ namespace activity;
 public class ActiviSix
 {
     public void ActivitySix()
+        /*
+         * 6 - Create a program that prompts the user to display the current date in different formats:
+         * * Full format (day fo the week, day of the month, month, year, hour, minutes, seconds).
+         * * Just the date in the format "01/03/2024".
+         * * Jus the time in 24-hour format.
+         * * The date with the month in full.
+         */
+
     {
         //Message Welcome
         Console.WriteLine("Hello, I'm João, student of Technology. Learning C# ");
