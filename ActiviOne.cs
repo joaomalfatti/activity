@@ -2,6 +2,11 @@
 namespace activity;
 public class ActiviOne
 {
+    /*
+        Create a program where the user has to enter a name and a personalized
+    welcome message with his name is displayed.
+     
+     */
     public void ActivityOne()
     {
         //Message is Welcome
